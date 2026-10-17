@@ -1,0 +1,8 @@
+{
+  "name": "snk-cloud-hosting-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first SNK Cloud Hosting dashboard prototype",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
